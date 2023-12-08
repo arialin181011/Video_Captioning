@@ -26,4 +26,3 @@ This report present the whole processes of Creating Ensemble Fusion of Case-base
 - For Inference the model without re-build the model.
 - Download [trained student models](https://drive.google.com/drive/folders/1nIZgixmE2lREckPZ8pRNIGxSHbp_4iNs?usp=sharing/).
 - Run **Ensemble.ipynb**
-
