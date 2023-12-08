@@ -10,11 +10,11 @@ This report present the whole processes of Creating Ensemble Fusion of Case-base
 AA
 
 
-##Clustering
+## Ensemble & Testing
 
 AA
 
-##Distillation
+## Ensemble & Testing
 
 AA
 
