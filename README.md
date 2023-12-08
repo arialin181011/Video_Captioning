@@ -8,7 +8,7 @@ This report present the whole processes of Creating Ensemble Fusion of Case-base
 - Execute **get_teacher_logits.ipynb**, located in the same directory as GenerativeImage2Text
 
 ## Clustering
-- Ad short cut of [dataset](https://drive.google.com/drive/u/0/folders/17MWu0h-yH4YA29dcOURYvg56VdNdQBrA/) of MSRTVV at gdreive
+- Download or add short cut of [dataset](https://drive.google.com/drive/u/0/folders/17MWu0h-yH4YA29dcOURYvg56VdNdQBrA/) of MSRTVV at gdreive
 - Execute **clustering**
 
 ## Distillation
@@ -25,5 +25,5 @@ This report present the whole processes of Creating Ensemble Fusion of Case-base
 ## Inference with Completed Data 
 - For Inference the model without re-build the model.
 - Download [trained student models](https://drive.google.com/drive/folders/1nIZgixmE2lREckPZ8pRNIGxSHbp_4iNs?usp=sharing/).
-- 
+- Run **Ensemble.ipynb**
 
