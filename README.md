@@ -9,7 +9,7 @@ This report present the whole processes of Creating Ensemble Fusion of Case-base
 
 ## Clustering
 - Download or add short cut of [dataset](https://drive.google.com/drive/u/0/folders/17MWu0h-yH4YA29dcOURYvg56VdNdQBrA/) of MSRTVV at gdreive
-- Execute **clustering**
+- Execute **clustering.ipynb**
 
 ## Distillation
 - Create directions: "outputs"
