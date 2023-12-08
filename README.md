@@ -7,7 +7,7 @@ This report present the whole processes of Creating Ensemble Fusion of Case-base
 
 ## Get Logits from Teacher Model
 
-###AA
+### AA
 
 
 ## Clustering
