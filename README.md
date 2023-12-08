@@ -1,7 +1,7 @@
 # Video_Captioning
 
 
-##Intruduction
+## Intruduction
 
 This report present the whole processes of Creating Ensemble Fusion of Case-based Distilled Student Models for Enhanced Real-time Video Summarization.
 
