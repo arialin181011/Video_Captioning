@@ -1,6 +1,6 @@
 ## Intruduction
 
-This report present the whole processes of Creating Ensemble Fusion of Case-based Distilled Student Models for Enhanced Real-time Video Summarization. For Inference the model without re-build the model, please go to the last section "**Inference with Completed Data **".
+This report present the whole processes of Creating Ensemble Fusion of Case-based Distilled Student Models for Enhanced Real-time Video Summarization. For Inference the model without re-build the model, please go to the last section "**Inference with Completed Data**".
 
 ## Get Logits from Teacher Model
 - Download [GenerativeImage2Text](https://github.com/microsoft/GenerativeImage2Text/)
